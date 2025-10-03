@@ -23,10 +23,19 @@ The analysis highlights key retention drivers and provides data-driven insights 
 ```bash
 ecommerce-churn-analytics/
 │
-├── exploration.sql              # Initial exploration queries
-├── customers_retention.sql        # Retention by tenure, device, payment, satisfaction
-├── quasi_a_b_test_coupon.sql          # Quasi A/B test for coupon impact
-├── E-Commerce Churn Data.csv    # Source dataset (from Kaggle)
+├── data/
+│   └── E-Commerce Churn Data.csv
+│
+├── sql/
+│   ├── exploration.sql
+│   ├── customers_retention.sql
+│   └── quasi_a_b_test_coupon.sql
+│
+├── images/
+│   ├── churn_rate_analysis.png
+│   ├── customer_retention.png
+│   └── coupon_impact.png
+│
 └── README.md
 ```
 ---
