@@ -30,7 +30,7 @@ ecommerce-churn-analytics/
 │   ├── churn_rate_analysis.png
 │   ├── customer_retention.png
 │   └── coupon_impact.png
-|
+│
 ├── sql/
 │   ├── exploration.sql
 │   ├── customers_retention.sql
