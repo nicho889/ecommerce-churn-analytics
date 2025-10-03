@@ -26,15 +26,15 @@ ecommerce-churn-analytics/
 ├── data/
 │   └── E-Commerce Churn Data.csv
 │
-├── sql/
-│   ├── exploration.sql
-│   ├── customers_retention.sql
-│   └── quasi_a_b_test_coupon.sql
-│
 ├── images/
 │   ├── churn_rate_analysis.png
 │   ├── customer_retention.png
 │   └── coupon_impact.png
+|
+├── sql/
+│   ├── exploration.sql
+│   ├── customers_retention.sql
+│   └── quasi_a_b_test_coupon.sql
 │
 └── README.md
 ```
