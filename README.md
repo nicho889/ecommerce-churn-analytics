@@ -15,7 +15,7 @@ The analysis highlights key retention drivers and provides data-driven insights 
 
 - Tableau – Dashboards & interactive visualizations
 
-- Dataset – [E-Commerce Churn Data (Kaggle)](https://www.kaggle.com/datasets/anaghapaul/e-commerce-dataset/data)  
+- Dataset – [E-Commerce Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/anaghapaul/e-commerce-dataset/data)  
 
 ---
 
